@@ -1,2 +1,3 @@
-# eda-common-dags
+# Example code to do reatime streaming
+
 # realtime_streaming
